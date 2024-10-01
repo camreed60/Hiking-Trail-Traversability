@@ -1,0 +1,5 @@
+<launch>
+  <node name="segment terrain" pkg="traversability_mapping_sim" type="terrain_segmentation.py" output="screen" />
+
+  <node name="terrain classification" pkg="traversability_mapping_sim" type="terrain_classification.py" output="screen" />
+</launch>

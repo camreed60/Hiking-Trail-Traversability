@@ -1,0 +1,5 @@
+<launch>
+  <node name="segment pointcloud" pkg="traversability_mapping_sim" type="sim_segment_pointcloud.py" output="screen" />
+
+  <node name="traversability mapping" pkg="traversability_mapping_sim" type="sim_traversability_mapping.py" output="screen" />
+</launch>
