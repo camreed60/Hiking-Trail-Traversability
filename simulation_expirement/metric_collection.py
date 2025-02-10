@@ -70,7 +70,7 @@ class MetricCollection:
                 return False
             
             x, y, z = position
-            search_radius = .5  # meters change if needed
+            search_radius = .05  # 0.05 meter tolerance, change if needed
             on_trail_points = 0
             total_points = 0
             closest_point_distance = float('inf')
