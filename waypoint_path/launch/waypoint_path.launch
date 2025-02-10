@@ -1,0 +1,4 @@
+<launch>
+  <node name="waypoint path" pkg="waypoint_path" type="main.py" output="screen">
+  </node>
+</launch>
