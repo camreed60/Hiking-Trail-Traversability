@@ -11,6 +11,8 @@ Costmaps formed by the method:
 
 ![travmap_white](https://github.com/user-attachments/assets/f5c70824-6b10-4b79-b40c-885792b56580)
 
+(with waypoints visualized):
+
 ![waypoints_visualized](https://github.com/user-attachments/assets/11aabbb8-00c4-4d85-ab69-f42aa25f891b)
 
 
