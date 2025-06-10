@@ -3,7 +3,7 @@ A method of traversability estimation for autonomous vehicles navigating hiking 
 
 ![REU_Hiking_Trail drawio](https://github.com/user-attachments/assets/99cba39e-0434-4465-a59b-ce7343b97c0e)
 
-A simulation envrironment compatible with https://www.cmu-exploration.com/ can also be found within the repository.
+A simulation envrironment compatible with https://www.cmu-exploration.com/ can also be found here: https://drive.google.com/file/d/1Z9yHqRlvf3y8AXTBbtJ6v6tVWqsv_bS2/view?usp=sharing.
 
 ![simulation](https://github.com/user-attachments/assets/85703665-6406-4aa7-9725-ba20d3df0411)
 
